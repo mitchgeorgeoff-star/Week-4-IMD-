@@ -4,7 +4,7 @@ body {
     background-color: rgb(214, 15, 151);    
 }
 
-/* this will apply all styles to all images in the document. */
+/* his will apply all styles to all images in the document. */
 only style one image with the class "batman-image" */
 .batman-image {
     width: 200px;
